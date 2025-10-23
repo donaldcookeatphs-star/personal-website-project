@@ -35,6 +35,14 @@ p {
     text-align: center;
 }
 
-.computer {
-    color: white
+.title {
+   font-size: larger;
+}
+
+.home {
+    color: black;
+}
+
+#aot {
+    color:white
 }
